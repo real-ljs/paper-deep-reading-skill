@@ -170,9 +170,9 @@ paper-deep-reading-skill/
 
 ---
 
-## 📄 License
+##  License
 
-MIT License © 2025 [real-ljs](https://github.com/real-ljs)
+MIT License © 2026 [real-ljs](https://github.com/real-ljs)
 
 ---
 
