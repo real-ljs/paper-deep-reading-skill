@@ -18,7 +18,7 @@
 
 ---
 
-## 🧭 为什么需要这个 Skill？
+##  为什么需要这个 Skill？
 
 读论文时，你是否有过这些困扰：
 
@@ -31,36 +31,36 @@
 
 ---
 
-## ✨ 核心特性
+##  核心特性
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🔗 因果链阅读法</h4>
+      <h4> 因果链阅读法</h4>
       <p>将论文从「现实背景 → 核心问题 → 方法设计 → 实验验证 → 结论局限」读成一条完整的论证链条。</p>
     </td>
     <td width="50%">
-      <h4>🧩 四层方法拆解</h4>
+      <h4> 四层方法拆解</h4>
       <p>从方法总览、模块分工、算法流程到关键设计理由，逐层深入理解方法。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📊 实验结构化分析</h4>
+      <h4> 实验结构化分析</h4>
       <p>主实验、消融实验、Case Study — 每种实验都有对应的拆解模板和分析问题。</p>
     </td>
     <td width="50%">
-      <h4>✅ 精读自检清单</h4>
+      <h4> 精读自检清单</h4>
       <p>读完论文后，用 11 个问题检查自己是否真正读懂。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📝 标准化输出模板</h4>
+      <h4> 标准化输出模板</h4>
       <p>从论文基本信息到方法细节、实验结果、局限与个人理解，11 个模块完整覆盖。</p>
     </td>
     <td width="50%">
-      <h4>🎯 批判性思维</h4>
+      <h4> 批判性思维</h4>
       <p>区分「事实」「论证」「推测」三类信息，培养对论文的批判性阅读能力。</p>
     </td>
   </tr>
@@ -68,7 +68,7 @@
 
 ---
 
-## 📦 快速开始
+##  快速开始
 
 ### 安装
 
@@ -107,7 +107,7 @@ cp skills/paper-deep-reading/SKILL.md .cursor/rules/paper-deep-reading.md
 
 ---
 
-## 📖 Skill 概览
+##  Skill 概览
 
 ### 三大阅读原则
 
@@ -136,7 +136,7 @@ cp skills/paper-deep-reading/SKILL.md .cursor/rules/paper-deep-reading.md
 
 ---
 
-## 🗂 仓库结构
+##  仓库结构
 
 ```
 paper-deep-reading-skill/
@@ -149,7 +149,7 @@ paper-deep-reading-skill/
 
 ---
 
-## 📋 输出模板
+##  输出模板
 
 精读完论文后，Skill 会引导你输出以下结构化笔记：
 
@@ -167,15 +167,6 @@ paper-deep-reading-skill/
 ├── 10. 局限
 └── 11. 我的理解与批判性思考
 ```
-
----
-
-## 🌟 社区
-
-如果这个 Skill 对你有帮助，请给一个 ⭐ Star！
-
-- 💬 **提问 & 讨论**：[GitHub Issues](https://github.com/real-ljs/paper-deep-reading-skill/issues)
-- 📬 **联系作者**：[GitHub @real-ljs](https://github.com/real-ljs)
 
 ---
 
