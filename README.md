@@ -120,8 +120,7 @@ cp skills/paper-deep-reading/SKILL.md .cursor/rules/paper-deep-reading.md
 ### 八步精读流程
 
 ```
-快速定位 → 一句话摘要 → 拆任务背景 → 拆论文动机
-    → 拆核心方法(四层) → 拆实验设计 → 拆结论局限 → 自检清单
+快速定位 → 一句话摘要 → 拆任务背景 → 拆论文动机 → 拆核心方法(四层) → 拆实验设计 → 拆结论局限 → 自检清单
 ```
 
 ### 六问精读法
@@ -143,12 +142,9 @@ cp skills/paper-deep-reading/SKILL.md .cursor/rules/paper-deep-reading.md
 paper-deep-reading-skill/
 ├── README.md                           # 本文件
 ├── LICENSE                             # MIT License
-├── CONTRIBUTING.md                     # 贡献指南
 ├── skills/
 │   └── paper-deep-reading/
 │       └── SKILL.md                    # Skill 定义文件
-└── examples/
-    └── example-output.md               # 精读输出示例
 ```
 
 ---
@@ -171,19 +167,6 @@ paper-deep-reading-skill/
 ├── 10. 局限
 └── 11. 我的理解与批判性思考
 ```
-
----
-
-## 🤝 贡献
-
-欢迎贡献！你可以：
-
-- **提交新的 Skill 变体** — 针对特定领域（如 CV、系统、理论）的精读变体；
-- **改进现有 Skill** — 优化框架、补充模板、修正错误；
-- **分享使用案例** — 提交你用这个 Skill 做的精读笔记；
-- **翻译** — 提供其他语言的版本。
-
-详见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
 ---
 
